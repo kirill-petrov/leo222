@@ -1,5 +1,5 @@
 function renderRegisterForm(req, res) {
-  res.render('index');
+  res.render('signup');
 }
 
 module.exports = renderRegisterForm;
